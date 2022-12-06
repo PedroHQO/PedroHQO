@@ -3,7 +3,7 @@
 - 🔭 Atualmente eu trabalho com Manutenção de Equipamentos e Software de Informatica
 ### Vida Acadêmica
 - 🌱 Sou formado em Técnico Eletrônica, atravéz do curso que eu conheci o mundo da programação no qual me apaixonei, ja desenvolvi 
-  projetos em **C** com **Arduino**, **Python**, mas atualmente eu estou estudando **JAVA**, este tem sido meu foco.
+  projetos em **C++** com **Arduino**, **Python**, mas atualmente eu estou estudando **JAVA**, este tem sido meu foco.
 ### Sobre mim
 - 📫 https://www.linkedin.com/in/pedro-henrique-a07564207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpXGftrPeTCWi63PXou%2FcLw%3D%3D
 ### Objetivo
@@ -17,9 +17,9 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Arduino" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img align="center" alt="Pedro-C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="center" alt="Pedro-C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="Pedro-Arduino" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<img align="center" alt="Pedro-C++" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="center" alt="Pedro-Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
   ##
  
