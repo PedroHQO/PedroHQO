@@ -3,7 +3,7 @@
 - 🔭 Atualmente eu trabalho com Suporte Técnico Para Sistemas.
 ### Vida Acadêmica
 - 🌱 Sou formado em Técnico Eletrônica, foi por meio do curso que eu conheci o mundo da programação no qual me apaixonei, ja desenvolvi 
-  projetos em **C++** com **Arduino**, **Python**, mas atualmente eu estou cursando **Análise e Desenvolvimento de Sistemas**, este tem sido meu foco.
+  projetos em **C++** com **Arduino**, **Python**, mas atualmente eu estou cursando **Análise e Desenvolvimento de Sistemas**, juntamente com o curso meu foco é **Desenvolver em JAVA**.
 ### Sobre mim
 - 📫 https://www.linkedin.com/in/pedro-henrique-a07564207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpXGftrPeTCWi63PXou%2FcLw%3D%3D
 ### Objetivo
