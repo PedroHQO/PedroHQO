@@ -7,7 +7,7 @@
 ### Sobre mim
 - 📫 https://www.linkedin.com/in/pedro-henrique-a07564207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpXGftrPeTCWi63PXou%2FcLw%3D%3D
 ### Objetivo
-- 💡 Me transformar em um **Desenvolvedor** Java e dominar suas tecnologias e serviços, como: **Spring Boot, Orientação a Objetos, Open Source, Sql**
+- 💡 Me transformar em um **Desenvolvedor** Java e dominar suas tecnologias e outros serviços para complementar a práticaserviços, como: **Spring Boot, Orientação a Objetos, Open Source, Sql**
 - 😄 Ele/dele
 
 <div align="center">
