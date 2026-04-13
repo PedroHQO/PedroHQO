@@ -68,4 +68,4 @@ Contact:
 </div>
 
   ### 📫 Contato
-[LinkedIn](https:/www.linkedin.com/in/pedro-henrique-oliveira-a07564207) | [Meu Portfólio](https://portfolio-pedrohqo.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/pedro-henriqueqo) | [Meu Portfólio](https://portfolio-pedrohqo.vercel.app/)
