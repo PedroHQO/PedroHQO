@@ -1,7 +1,9 @@
 ## Olá! Eu sou PedroHQO😀
 
 ### 🚀 Sobre Mim
-- 🔭 Atualmente trabalho com **Suporte Técnico para Sistemas**, focando em análise de sistemas e resolução de problemas complexos.
+- 🔭 Atualmente trabalho no meu **SaaS ThunderMind e Suporte Técnico para Sistemas**.
+- No meu trabalho na ThunderMind: Arquitetura e desenvolvimento de uma plataforma SaaS facilitadora de atendimento para prestadores de serviço no ramo automotivo.
+- No meu trabalho em Suporte: Realizo a análise técnica e a resolução de problemas no sistema Domínio, identificando a causa raiz de erros e garantindo a estabilidade para o cliente.
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** e Técnico em Eletrônica. 
 - 💻 No momento, meu foco principal é o desenvolvimento **Back-end**, aprofundando conhecimentos em **Java (Spring Boot)** e no ecossistema **Node.js (NestJS)** com **TypeScript**.
 - 🌐 Também desenvolvo interfaces modernas utilizando **Next.js** e **Tailwind**.
