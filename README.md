@@ -1,18 +1,19 @@
 ## Olá! Eu sou PedroHQO😀
 
 ### 🚀 Sobre Mim
-- 🔭 Atualmente trabalho no meu **SaaS ThunderMind e Suporte Técnico para Sistemas**.
-- No meu trabalho na ThunderMind: Arquitetura e desenvolvimento de uma plataforma SaaS facilitadora de atendimento para prestadores de serviço no ramo automotivo.
+- 🔭 Atualmente trabalho no meu **SaaS Amie e Analista Suporte Técnico para Domínio Sistemas**.
+- No meu trabalho na Amie: Sistema IoT integrado que combina um organizador físico de pílulas, um PWA de gerenciamento e alertas 
+automatizados via WhatsApp para auxiliar pacientes idosos e cuidadores na adesão medicamentosa.
 - No meu trabalho em Suporte: Realizo a análise técnica e a resolução de problemas no sistema Domínio, identificando a causa raiz de erros e garantindo a estabilidade para o cliente.
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** e Técnico em Eletrônica. 
-- 💻 No momento, meu foco principal é o desenvolvimento **Back-end**, aprofundando conhecimentos em **Java (Spring Boot)** e no ecossistema **Node.js (NestJS)** com **TypeScript**.
-- 🌐 Também desenvolvo interfaces modernas utilizando **Next.js** e **Tailwind**.
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas e Técnico em Eletrônica**. 
+- 💻 No momento, meu foco principal é o desenvolvimento **Back-end**, aprofundando conhecimentos em **Java (Spring Boot)** e no ecossistema **Node.js (NestJS, Express)** com **TypeScript**.
+- 🌐 Também desenvolvo interfaces modernas utilizando **React com Next.js** e **Tailwind**.
 
 ### 💡 Objetivo Profissional
 Consolidar-me como **Desenvolvedor Back-end**, dominando arquiteturas modernas e boas práticas de engenharia:
-- **Core:** Java (Spring Boot), NestJS, TypeScript, Node.js.
-- **Conceitos:** POO, SOLID, Estrutura de Dados, Regras de Negócio e Arquitetura de Sistemas, Teste Unitários.
-- **Tools:** Docker, Git, Bancos de Dados SQL/NoSQL.
+- **Core:** Java (Spring Boot), Node.js, TypeScript, Next.js.
+- **Conceitos:** POO, SOLID, Estrutura de Dados, Regras de Negócio e Arquitetura de Sistemas, Teste Unitários, MicroServiços.
+- **Tools:** Docker, Git, Bancos de Dados SQL/NoSQL, Maven, Postman, Cloud, Linux.
 
 <div align="center">
   <a href="https://github.com/PedroHQO">
